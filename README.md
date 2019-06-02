@@ -1,0 +1,1 @@
+This project consist of a search on Bing using ruby Rest-client. The first ten results can only be seen on a command line. This project demonstrates how we can use Rest Client to communicate with another web service that doesn’t have an API library already written out.
